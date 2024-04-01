@@ -1,0 +1,17 @@
+[ {
+  "phoneNo" : "8056767584",
+  "status" : "pending",
+  "candidateAddress" : "tenkasi",
+  "intId" : "101",
+  "candidateName" : "Neymar",
+  "candidateId" : 1,
+  "candidateMailId" : "ney@gmail.com"
+}, {
+  "phoneNo" : "9840394839",
+  "status" : "PENDING",
+  "candidateAddress" : "tenkasi",
+  "intId" : "102",
+  "candidateName" : "Ney",
+  "candidateId" : 2,
+  "candidateMailId" : "net@gmail.com"
+} ]
